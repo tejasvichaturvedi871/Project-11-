@@ -6,3 +6,4 @@
 #dict[i]=i**3
 #print(dict)
 #cubes()
+![Screenshot_20241227-013124_Moto App Launcher~2](https://github.com/user-attachments/assets/bb1ed960-daf7-4ca6-b872-89d82014d6c5)
